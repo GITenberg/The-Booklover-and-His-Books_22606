@@ -1,0 +1,37 @@
+_repo: The-Booklover-and-His-Books_22606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Koopman, Harry Lyman
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '25441'
+    url: http://www.gutenberg.org/2009/agents/25441
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22606'
+  lccn: '17000661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books'
+- !lcc 'Z'
+tableOfContents: 'Books and booklovers -- Fitness in book design -- Print as an interpreter
+  of meaning -- Favorite book sizes -- The value of reading -- The book of to-day
+  and the book of to-morrow -- A constructive critic of the book -- Books as a librarian
+  would like them -- The book beautiful -- The reader''s high privilege -- The background
+  of the book -- The Chinese book -- Thick paper and thin -- The clothing of a book
+  -- Parchment bindings -- Lest we forget the few great books -- Printing problems
+  for science to solve -- Types and eyes: the problem -- Types and eyes: progress
+  -- Exceptions to the rule of legibility -- The student and the library -- Orthographic
+  reform -- The perversities of type --  A secret of personal power.'
+title: The Booklover and His Books
+url: http://www.gutenberg.org/ebooks/22606
