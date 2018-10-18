@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Books'
 - !lcc 'Z'
+- GITenberg
 tableOfContents: 'Books and booklovers -- Fitness in book design -- Print as an interpreter
   of meaning -- Favorite book sizes -- The value of reading -- The book of to-day
   and the book of to-morrow -- A constructive critic of the book -- Books as a librarian
